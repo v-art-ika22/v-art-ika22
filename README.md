@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vartika Agnihotri</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
-<img align="center" width="400" alt ="coding" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<img align="right" width="400" alt ="coding" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 - 🌱 I’m currently learning **DSA in Java • JavaScript • React • Node.js • Backend Development Basics**
 

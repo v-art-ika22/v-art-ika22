@@ -1,3 +1,4 @@
+![logo] https://www.digitalsolutionservices.com/img/services/web%20development.gif
 <h1 align="center">Hi 👋, I'm Vartika Agnihotri</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 <img align="right" width="400" alt ="coding" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">

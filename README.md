@@ -2,7 +2,8 @@
 <h3 align="center">An Aspiring Software Developer</h3>
 <img align="right" width="400" alt ="coding" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
-- 🌱 I’m currently learning **DSA in Java • JavaScript • React • Node.js • Backend Development Basics**
+- 🌱 I’m currently learning **DSA in Java • JavaScript
+-  • React • Node.js • Backend Development Basics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
